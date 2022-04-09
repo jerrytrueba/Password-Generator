@@ -10,3 +10,7 @@ https://github.com/jerrytrueba/Password-Generator
 Deployed Link
 
 https://jerrytrueba.github.io/Password-Generator/
+
+
+Screenshots of Password Generator
+![](Assets/Images/Screenshotone.png)
