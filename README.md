@@ -14,3 +14,8 @@ https://jerrytrueba.github.io/Password-Generator/
 
 Screenshots of Password Generator
 ![](Assets/Images/Screenshotone.png)
+![](Assets/Images/Screenshottwo.png)
+![](Assets/Images/Screenshotthree.png)
+![](Assets/Images/Screenshotfour.png)
+![](Assets/Images/Screenshotfive.png)
+![](Assets/Images/Screenshotsix.png)
